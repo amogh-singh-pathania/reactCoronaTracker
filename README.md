@@ -1,4 +1,5 @@
 Created Using React + Material UI and https://covid19.mathdro.id/api 
+Code and tutorial credits goes to Freecodecamp
 
 # Click for [Deployed App](https://a1bhi2.github.io/react-corona-tracker/).
 
