@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-corona-tracker/static/css/main.fd70a5ef.chunk.css",
-    "main.js": "/react-corona-tracker/static/js/main.92ddd0c6.chunk.js",
-    "main.js.map": "/react-corona-tracker/static/js/main.92ddd0c6.chunk.js.map",
-    "runtime-main.js": "/react-corona-tracker/static/js/runtime-main.6115be80.js",
-    "runtime-main.js.map": "/react-corona-tracker/static/js/runtime-main.6115be80.js.map",
-    "static/js/2.7a9754c7.chunk.js": "/react-corona-tracker/static/js/2.7a9754c7.chunk.js",
-    "static/js/2.7a9754c7.chunk.js.map": "/react-corona-tracker/static/js/2.7a9754c7.chunk.js.map",
-    "index.html": "/react-corona-tracker/index.html",
-    "precache-manifest.e71d8d33d4b6f1e407cbe20e13064ae9.js": "/react-corona-tracker/precache-manifest.e71d8d33d4b6f1e407cbe20e13064ae9.js",
-    "service-worker.js": "/react-corona-tracker/service-worker.js",
-    "static/css/main.fd70a5ef.chunk.css.map": "/react-corona-tracker/static/css/main.fd70a5ef.chunk.css.map",
-    "static/js/2.7a9754c7.chunk.js.LICENSE.txt": "/react-corona-tracker/static/js/2.7a9754c7.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/react-corona-tracker/static/media/image.d7265326.png"
+    "main.css": "/React-corona-tracker/static/css/main.fd70a5ef.chunk.css",
+    "main.js": "/React-corona-tracker/static/js/main.92ddd0c6.chunk.js",
+    "main.js.map": "/React-corona-tracker/static/js/main.92ddd0c6.chunk.js.map",
+    "runtime-main.js": "/React-corona-tracker/static/js/runtime-main.367df107.js",
+    "runtime-main.js.map": "/React-corona-tracker/static/js/runtime-main.367df107.js.map",
+    "static/js/2.d206de84.chunk.js": "/React-corona-tracker/static/js/2.d206de84.chunk.js",
+    "static/js/2.d206de84.chunk.js.map": "/React-corona-tracker/static/js/2.d206de84.chunk.js.map",
+    "index.html": "/React-corona-tracker/index.html",
+    "precache-manifest.353a1df0a42c62c6716e859f8acc2aac.js": "/React-corona-tracker/precache-manifest.353a1df0a42c62c6716e859f8acc2aac.js",
+    "service-worker.js": "/React-corona-tracker/service-worker.js",
+    "static/css/main.fd70a5ef.chunk.css.map": "/React-corona-tracker/static/css/main.fd70a5ef.chunk.css.map",
+    "static/js/2.d206de84.chunk.js.LICENSE.txt": "/React-corona-tracker/static/js/2.d206de84.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/React-corona-tracker/static/media/image.d7265326.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6115be80.js",
-    "static/js/2.7a9754c7.chunk.js",
+    "static/js/runtime-main.367df107.js",
+    "static/js/2.d206de84.chunk.js",
     "static/css/main.fd70a5ef.chunk.css",
     "static/js/main.92ddd0c6.chunk.js"
   ]
